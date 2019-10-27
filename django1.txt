@@ -1,0 +1,7 @@
+id admin
+pw admin
+email 0123azhar@gmail.com
+
+admin
+123456
+lmnxyz000@gmail.com
